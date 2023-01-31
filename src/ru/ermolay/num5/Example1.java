@@ -7,7 +7,7 @@ public class Example1 {
         while (true) {
             String binary = Integer.toBinaryString(num); // переводим число в строку с 0 и 1
 
-            int bin = Integer.parseInt(binary); //получаем из строки число в десятичной системе("1001" -> 1001)
+            int bin = Integer.parseInt(binary); // получаем из строки число в десятичной системе("1001" -> 1001)
             if (bin % 2 == 0) {
                 binary = "1" + binary + "0";
             } else {
