@@ -4,7 +4,10 @@
 > 
 > Ответ: 7
 
-### Example1 - https://inf-ege.sdamgia.ru/problem?id=13362
+### Example2 - null
 > В данном примере значение будет слишком велико для функции Math.pow(). Поэтому нужно использовать BigInteger.
 >
-> Ответ: 7
+> Ответ: 2015
+
+### Example3 - https://inf-ege.sdamgia.ru/problem?id=9367
+> Ответ: 3
