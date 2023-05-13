@@ -7,3 +7,5 @@
 
 ### Example2 - https://inf-ege.sdamgia.ru/problem?id=10477
 > Ответ: 8998
+
+### Example3 - https://inf-ege.sdamgia.ru/problem?id=16443

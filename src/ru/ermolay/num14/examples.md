@@ -10,4 +10,7 @@
 > Ответ: 2015
 
 ### Example3 - https://inf-ege.sdamgia.ru/problem?id=9367
+>
 > Ответ: 3
+
+### Example3 - https://inf-ege.sdamgia.ru/problem?id=13362

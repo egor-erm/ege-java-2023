@@ -11,5 +11,7 @@ x y z w
 > 
 > Ответ: yxzw
 
-> ### Example2 - https://inf-ege.sdamgia.ru/problem?id=18550
+### Example2 - https://inf-ege.sdamgia.ru/problem?id=18550
 > Ответ: zwyx
+
+### Example3 - https://inf-ege.sdamgia.ru/problem?id=15814

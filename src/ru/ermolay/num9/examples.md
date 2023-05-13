@@ -8,3 +8,5 @@
 
 ### Example2 - https://inf-ege.sdamgia.ru/problem?id=33754
 > Ответ: 7
+
+### Example3 - https://inf-ege.sdamgia.ru/problem?id=35467
