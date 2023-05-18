@@ -13,4 +13,8 @@
 >
 > Ответ: 3
 
-### Example3 - https://inf-ege.sdamgia.ru/problem?id=13362
+### Example4 - https://inf-ege.sdamgia.ru/problem?id=13362
+
+### Example5 - ФИПИ 300EF5
+
+### Example6 - Поляков 346

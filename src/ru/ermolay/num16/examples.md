@@ -6,3 +6,5 @@
 
 
 ### Example2 - https://inf-ege.sdamgia.ru/problem?id=4657
+
+### Example3 - Поляков
