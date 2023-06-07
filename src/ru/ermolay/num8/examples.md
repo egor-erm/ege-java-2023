@@ -15,3 +15,5 @@
 > Ответ: 160
 
 ### Example4 - https://inf-ege.sdamgia.ru/problem?id=18558
+
+### Example5 - https://inf-ege.sdamgia.ru/problem?id=16886

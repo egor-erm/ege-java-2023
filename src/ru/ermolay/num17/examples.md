@@ -7,3 +7,5 @@
 ### Example2 - https://inf-ege.sdamgia.ru/problem?id=39763
 
 ### Example3 - Поляков 298
+
+### Example4 - https://inf-ege.sdamgia.ru/problem?id=40733

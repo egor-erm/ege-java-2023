@@ -15,3 +15,5 @@ x y z w
 > Ответ: zwyx
 
 ### Example3 - https://inf-ege.sdamgia.ru/problem?id=15814
+
+### Example4 - https://inf-ege.sdamgia.ru/problem?id=15912

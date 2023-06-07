@@ -18,3 +18,5 @@
 ### Example5 - ФИПИ 300EF5
 
 ### Example6 - Поляков 346
+
+### Example7 - https://inf-ege.sdamgia.ru/problem?id=7761

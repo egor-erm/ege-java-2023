@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Example2 {
 
     public static void main(String[] args) throws FileNotFoundException { // обязательно throws
-        Scanner scanner = new Scanner(new File("src/ru/ermolay/num17/17-2.txt"));
+        Scanner scanner = new Scanner(new File("src/ru/ermolay/num17/17-1.txt"));
 
         ArrayList<Integer> ints = new ArrayList<>();
         while (scanner.hasNext()) {
